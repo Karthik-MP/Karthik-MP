@@ -15,16 +15,16 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/70e99aed48f6cc8aa246c72fc87db533cee7a68c96a8f47c82cb675c3ecb0541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/70e99aed48f6cc8aa246c72fc87db533cee7a68c96a8f47c82cb675c3ecb0541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></a> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3a7bd8fd8630b13942af6bdc8f131e44dd6a60213a353cefbff9baf796121718/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a556e69742532302d2532333135303435382e7376673f267374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3a7bd8fd8630b13942af6bdc8f131e44dd6a60213a353cefbff9baf796121718/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a556e69742532302d2532333135303435382e7376673f267374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" alt="JUnit" data-canonical-src="https://img.shields.io/badge/jUnit%20-%23150458.svg?&amp;style=flat&amp;logo=Java&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-MP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthik-MP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+##
+<div align="center" style="display: inline_block">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Karthik-MP&show_icons=true&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-MP&layout=donut&theme=radical">
 </div>
-
-
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
   <a href="mailto:karthikmp521@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.linkedin.com/in/karthik-mp/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
