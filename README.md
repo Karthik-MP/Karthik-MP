@@ -61,8 +61,10 @@
         style="max-width: 100%;">
 </div>
 
-##
+###
+<hr>
 <div align="center" style="display: inline_block">
+    <h3 class="heading-element" dir="auto">Stats</h3>
     <img height="200em"
         src="https://github-readme-stats.vercel.app/api?username=Karthik-MP&show_icons=true&theme=radical">
     <img height="200em"
@@ -70,8 +72,9 @@
 </div>
 
 ###
-
+<hr>
 <div align="center">
+    <h3 class="heading-element" dir="auto">Reach Me Out Here!</h3>
     <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
     <a href="mailto:karthikmp521@gmail.com"><img
             src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
