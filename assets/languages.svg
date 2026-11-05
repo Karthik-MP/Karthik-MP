@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="215" viewBox="0 0 350 215" role="img" aria-label="Most Used Languages">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c0caf5; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c0caf5; }
+  .m { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #7f88b0; }
+  .fade { opacity: 0; animation: in .6s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" rx="10" width="349" height="214" fill="#1a1b27" stroke="#2a2e45"/>
+<text x="25" y="36" class="t">Most Used Languages</text>
+<mask id="m"><rect x="25" y="52" width="300" height="10" rx="5" fill="#fff"/></mask><g mask="url(#m)"><rect x="25.00" y="52" width="152.00" height="10" fill="#3178c6"/><rect x="177.00" y="52" width="59.74" height="10" fill="#f1e05a"/><rect x="236.74" y="52" width="42.92" height="10" fill="#3572A5"/><rect x="279.66" y="52" width="14.56" height="10" fill="#4F5D95"/><rect x="294.22" y="52" width="11.10" height="10" fill="#b07219"/><rect x="305.32" y="52" width="8.82" height="10" fill="#dea584"/><rect x="314.14" y="52" width="8.12" height="10" fill="#336790"/><rect x="322.26" y="52" width="2.74" height="10" fill="#3D6117"/></g><g class="fade" style="animation-delay:0ms" transform="translate(25,92)"><circle cx="5" cy="-4" r="5" fill="#3178c6"/><text x="16" y="0" class="l" style="font-size:12.5px">TypeScript <tspan class="m">50.7%</tspan></text></g>
+<g class="fade" style="animation-delay:100ms" transform="translate(180,92)"><circle cx="5" cy="-4" r="5" fill="#f1e05a"/><text x="16" y="0" class="l" style="font-size:12.5px">JavaScript <tspan class="m">19.9%</tspan></text></g>
+<g class="fade" style="animation-delay:200ms" transform="translate(25,120)"><circle cx="5" cy="-4" r="5" fill="#3572A5"/><text x="16" y="0" class="l" style="font-size:12.5px">Python <tspan class="m">14.3%</tspan></text></g>
+<g class="fade" style="animation-delay:300ms" transform="translate(180,120)"><circle cx="5" cy="-4" r="5" fill="#4F5D95"/><text x="16" y="0" class="l" style="font-size:12.5px">PHP <tspan class="m">4.9%</tspan></text></g>
+<g class="fade" style="animation-delay:400ms" transform="translate(25,148)"><circle cx="5" cy="-4" r="5" fill="#b07219"/><text x="16" y="0" class="l" style="font-size:12.5px">Java <tspan class="m">3.7%</tspan></text></g>
+<g class="fade" style="animation-delay:500ms" transform="translate(180,148)"><circle cx="5" cy="-4" r="5" fill="#dea584"/><text x="16" y="0" class="l" style="font-size:12.5px">Rust <tspan class="m">2.9%</tspan></text></g>
+<g class="fade" style="animation-delay:600ms" transform="translate(25,176)"><circle cx="5" cy="-4" r="5" fill="#336790"/><text x="16" y="0" class="l" style="font-size:12.5px">PLpgSQL <tspan class="m">2.7%</tspan></text></g>
+<g class="fade" style="animation-delay:700ms" transform="translate(180,176)"><circle cx="5" cy="-4" r="5" fill="#3D6117"/><text x="16" y="0" class="l" style="font-size:12.5px">TeX <tspan class="m">0.9%</tspan></text></g>
+</svg>
