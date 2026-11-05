@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=180&section=header&text=Karthik%20M%20P&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="./assets/header.svg" width="100%" alt="Karthik M P, Full-Stack &amp; AI Engineer"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=I+build+AI+agents+with+real+UIs+on+top;React+%2B+LangGraph+%2B+FastAPI;Shipping+products%2C+not+just+prototypes" alt="Typing SVG" /></a>
 
-<a href="https://careers.karthikmp.com"><img src="https://img.shields.io/badge/Portfolio-careers.karthikmp.com-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+<a href="https://karthikmp.com"><img src="https://img.shields.io/badge/Portfolio-karthikmp.com-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/karthik-mp/"><img src="https://img.shields.io/badge/LinkedIn-karthik--mp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:karthikmp521@gmail.com"><img src="https://img.shields.io/badge/Email-karthikmp521@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://www.npmjs.com/package/langgraph-ui-components"><img src="https://img.shields.io/npm/dw/langgraph-ui-components?style=for-the-badge&logo=npm&label=npm%20downloads&color=CB3837" alt="npm downloads"/></a>
@@ -20,7 +20,7 @@ I'm a full-stack engineer who builds AI products end to end: the agent, the API 
 - 🎓 **MS in Computer Science (AI)**, SUNY Binghamton, graduated May 2026
 - 💼 **~3 years** shipping production software at **Virtusa**, **Digiphins** and **Bytecrafts**
 - 🚀 Currently building **[Career Pipeline](https://careers.karthikmp.com)**, a job-search automation platform
-- 📦 Maintainer of **[langgraph-ui-components](https://www.npmjs.com/package/langgraph-ui-components)**, a React library for LangGraph chat UIs (~220 downloads/week)
+- 📦 Maintainer of **[langgraph-ui-components](https://www.npmjs.com/package/langgraph-ui-components)**, an open-source React library for LangGraph chat UIs
 - 🎯 Open to **Full-Stack, AI Engineer and Forward Deployed Engineer** roles
 
 <details>
@@ -53,7 +53,7 @@ Job-search automation platform. Python scanners crawl Greenhouse, Lever, Ashby a
 ### 📦 [langgraph-ui-components](https://www.npmjs.com/package/langgraph-ui-components)
 Open-source React component library that connects a chat UI to a LangGraph agent backend, so you can wire up multi-step agent workflows without rebuilding the frontend every time. Built while shipping a 3D-model generation agent at Bytecrafts.
 
-📦 <!-- npm_stats starts -->**v0.0.31** · **52** downloads last week<!-- npm_stats ends -->
+📦 <!-- npm_stats starts -->Published on npm<!-- npm_stats ends -->
 
 `React` `TypeScript` `LangGraph` `npm`
 
@@ -145,12 +145,12 @@ React + Spring Boot automation that took a pharma pricing workflow from **18 hou
 ## 📈 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthik-MP&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-MP&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages"/>
+  <img height="180" src="./assets/stats.svg" alt="GitHub stats"/>
+  <img height="180" src="./assets/languages.svg" alt="Most used languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=Karthik-MP&theme=tokyonight&hide_border=true" alt="streak"/>
   <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-MP&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img width="100%" src="./assets/activity.svg" alt="Contribution activity"/>
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik-MP/Karthik-MP/output/github-snake-dark.svg" />
@@ -162,10 +162,9 @@ React + Spring Boot automation that took a pharma pricing workflow from **18 hou
 
 <div align="center">
 
-**Let's build something.** Reach me at [karthikmp521@gmail.com](mailto:karthikmp521@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/karthik-mp/).
+**Let's build something.** Find more at [karthikmp.com](https://karthikmp.com), reach me at [karthikmp521@gmail.com](mailto:karthikmp521@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/karthik-mp/).
 
 <img src="https://komarev.com/ghpvc/?username=Karthik-MP&style=flat-square&color=4f46e5&label=profile+views" alt="views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>

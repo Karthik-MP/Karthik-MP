@@ -3,7 +3,7 @@ name: Build README
 on:
   push:
     branches: [main]
-    paths-ignore: [README.md]
+    paths-ignore: [README.md, "assets/stats.svg", "assets/languages.svg", "assets/activity.svg"]
   workflow_dispatch:
   schedule:
     - cron: "17 9 * * *" # once a day
@@ -28,9 +28,9 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git diff --quiet README.md && { echo "No changes"; exit 0; }
+          git add -A README.md assets
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
           git config user.name "readme-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
           git commit -m "Auto-update README"
           git push
