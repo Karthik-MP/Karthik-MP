@@ -21,7 +21,7 @@
           stroke-dasharray="301.6" stroke-dashoffset="301.6" transform="rotate(-90)">
     <animate attributeName="stroke-dashoffset" from="301.6" to="45" dur="1.2s" fill="freeze"/>
   </circle>
-  <text y="4" text-anchor="middle" style="font:700 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#c0caf5">1,817</text>
+  <text y="4" text-anchor="middle" style="font:700 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#c0caf5">1,821</text>
   <text y="22" text-anchor="middle" class="m">contributions</text>
   <text y="72" text-anchor="middle" class="m">past 12 months</text>
 </g>

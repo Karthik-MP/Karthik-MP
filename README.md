@@ -53,7 +53,7 @@ Job-search automation platform. Python scanners crawl Greenhouse, Lever, Ashby a
 ### 📦 [langgraph-ui-components](https://www.npmjs.com/package/langgraph-ui-components)
 Open-source React component library that connects a chat UI to a LangGraph agent backend, so you can wire up multi-step agent workflows without rebuilding the frontend every time. Built while shipping a 3D-model generation agent at Bytecrafts.
 
-📦 <!-- npm_stats starts -->**v0.0.31** · **117** downloads in the last month<!-- npm_stats ends -->
+📦 <!-- npm_stats starts -->**v0.0.31** · **106** downloads in the last month<!-- npm_stats ends -->
 
 `React` `TypeScript` `LangGraph` `npm`
 
