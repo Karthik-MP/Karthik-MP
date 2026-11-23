@@ -53,7 +53,7 @@ Job-search automation platform. Python scanners crawl Greenhouse, Lever, Ashby a
 ### 📦 [langgraph-ui-components](https://www.npmjs.com/package/langgraph-ui-components)
 Open-source React component library that connects a chat UI to a LangGraph agent backend, so you can wire up multi-step agent workflows without rebuilding the frontend every time. Built while shipping a 3D-model generation agent at Bytecrafts.
 
-📦 <!-- npm_stats starts -->**v0.0.31** · **120** downloads in the last month<!-- npm_stats ends -->
+📦 <!-- npm_stats starts -->**v0.0.31** · **158** downloads in the last month<!-- npm_stats ends -->
 
 `React` `TypeScript` `LangGraph` `npm`
 
@@ -69,11 +69,11 @@ Open-source React component library that connects a chat UI to a LangGraph agent
 
 #### 🔭 Recently pushed
 <!-- recent_repos starts -->
+- [**job-watcher**](https://github.com/Karthik-MP/job-watcher) `Python` · _2026-11-23_
 - [**SDE-Interview-Preparation-Guide**](https://github.com/Karthik-MP/SDE-Interview-Preparation-Guide) · _2026-09-05_
 - [**Event-Management-App**](https://github.com/Karthik-MP/Event-Management-App) `JavaScript` · _2026-09-02_
 - [**Predicting-US-Housing-Prices**](https://github.com/Karthik-MP/Predicting-US-Housing-Prices) `Jupyter Notebook` · _2026-08-23_
 - [**Ansible-Automation-Platform-Learning**](https://github.com/Karthik-MP/Ansible-Automation-Platform-Learning) `Jinja` · _2026-08-12_
-- [**Resume-Agent**](https://github.com/Karthik-MP/Resume-Agent) `Python` · _2026-08-11_
 <!-- recent_repos ends -->
 
 </td>
